@@ -1,0 +1,50 @@
+.sakura-theme {
+  background: linear-gradient(to bottom, #fff0f5, #ffe4e1);
+  border-radius: 15px;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.sakura-card {
+  background-color: #fffafa;
+  border: 1px solid #f8c8dc;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.sakura-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(255, 182, 193, 0.4);
+}
+
+.sakura-btn {
+  background-color: #ffc0cb;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.sakura-btn:hover {
+  background-color: #ff99aa;
+  color: white;
+}
+
+
+.sakura-theme {
+  background: linear-gradient(to bottom, #fff0f5, #ffe4e1);
+  border-radius: 15px;
+  padding: 25px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.sakura-card {
+  background-color: #fffafa;
+  border: 1px solid #f8c8dc;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.sakura-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(255, 182, 193, 0.4);
+}
